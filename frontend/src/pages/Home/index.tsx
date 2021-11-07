@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
     return (
-        <>
+    <>
         <NavBar />
         <div className="container">
             <div className="jumbotron">
